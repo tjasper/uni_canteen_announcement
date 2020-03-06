@@ -10,6 +10,7 @@ tested on ubuntu 18.04
 pip3 install requests
 pip3 install beautifulsoup4
 pip3 install DateTime
+pip3 install gtts
 sudo apt-get update
 sudo apt-get install mpg123
 ```
